@@ -1,14 +1,17 @@
 # ZG ZoneChants — releases and compatibility
 
-Source version snapshot: **1.4.0**. This is not a claim that a matching protected release file has been uploaded.
+Current source and protected candidate: **1.4.0** (10 October 2026), author Elgochogms, All Rights Reserved. No CurseForge file has been uploaded yet.
 
-- Minecraft 1.20.1, Forge 47.x.
+- Minecraft 1.20.1, tested on dedicated Forge 47.4.10.
 - Distribution layout: **server**.
-- Required dependencies from current source metadata: **ZoneCore**.
+- Required dependency from current source metadata: **ZoneCore** `[2.1.1,3)`. The protected candidate was smoke tested with protected ZoneCore 2.1.3.
 - One CurseForge page per functional mod. Client and server files, when present, are uploaded to that same page and labeled with their compatible pair.
 - Do not install `-dev`, fixture, test, source or unprotected build JARs.
-- Check the final file changelog, SHA-256 and dependency ranges before deploying to a persistent world.
+- Protected candidate SHA-256: `FEE632E30295C999A77A8F62FC6F828E32C07EE3F051BB77E5247B8A78C666A8`.
+- Forge smoke test: server started with both protected JARs, loaded four designs, `/za diseno listar` listed them, `/zonecore reload` reloaded the TOML, and server stopped cleanly. Prior 137 fixture checks were run against the original 1.4.0 build, not this protected JAR. Full modpack, graphical client, multiplayer and production hosting were not tested with the protected JAR.
+- Check the final CurseForge file changelog, SHA-256 and dependency ranges before deploying to a persistent world.
 
 ## Español
 
-La versión de las fuentes revisadas es **1.4.0**; eso no significa que se haya subido un JAR final protegido. Comprueba la pareja cliente/servidor, SHA-256, dependencias y notas de cambios de cada archivo publicado. No instales JAR `-dev`, de pruebas ni de compilación sin protección.
+La candidata protegida es **1.4.0**, con autor Elgochogms y licencia All Rights Reserved. SHA-256: `FEE632E30295C999A77A8F62FC6F828E32C07EE3F051BB77E5247B8A78C666A8`. Con ZoneCore 2.1.3 protegido arrancó en Forge 47.4.10, mostró cuatro diseños, respondió a `/za diseno listar` y recargó mediante `/zonecore reload`. Las 137 pruebas anteriores corresponden al JAR original, no a este artefacto protegido. Falta probar modpack completo, cliente gráfico, multijugador y hosting. Aún no hay archivo subido a CurseForge. No instales JAR `-dev` ni de pruebas.
+
