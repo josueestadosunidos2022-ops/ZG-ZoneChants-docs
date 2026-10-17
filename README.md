@@ -1,5 +1,11 @@
 # ZG ZoneChants
 
+## Update / Actualización — 2026-10-17
+
+Selected version / Versión seleccionada: **server 1.6.0**. New file availability depends on CurseForge approval / La disponibilidad de los archivos nuevos depende de su aprobación en CurseForge.
+
+See [changes, exact files and installation](UPDATES-2026-10-17.md) / Consulta [cambios, archivos e instalación](UPDATES-2026-10-17.md). Preserve the world and TOML files / Conserva mundo y TOML.
+
 ## English
 
 Administrative enchantments and armor effects with global limits. Minecraft 1.20.1 / Forge 47.x.
