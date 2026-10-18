@@ -1,4 +1,4 @@
-# ZG ZoneChants — releases and compatibility
+# ZoneChants — releases and compatibility
 
 Current source and protected release file: **1.4.0** (10 October 2026), author Elgochogms, All Rights Reserved. Uploaded to CurseForge as file **9124295** on 10 October; status **Under Review** at 21:16 ET. Project approval and public download remain pending.
 
