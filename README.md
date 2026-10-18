@@ -1,4 +1,4 @@
-# ZG ZoneChants
+# ZoneChants
 
 ## Update / Actualización — 2026-10-17
 
