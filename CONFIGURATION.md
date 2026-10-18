@@ -1,4 +1,4 @@
-# ZG ZoneChants 1.4.0 — configuration / configuración
+# ZoneChants 1.4.0 — configuration / configuración
 
 Source-checked for the protected 1.4.0 release. Paths are relative to the Forge server `config/` directory. The server creates the TOML files on first start. Back up custom settings before changing them; `/za reload` or `/zonecore reload` reloads all three. A malformed file keeps its previous valid in-memory settings, and the command reports an error. Restart when installing or replacing a JAR.
 
@@ -48,7 +48,7 @@ Por defecto, `tombstone:incurable` y `tombstone:decrepitude` tienen nivel máxim
 - `/za enchant <modid:id> <level>` and `/za eliminar <modid:id>`: manage enchantments / administrar encantamientos.
 - `/za reload` or `/zonecore reload`: reload configuration / recargar configuración.
 - Player permission nodes are `zonechants.admin`, `.enchant`, `.eliminar`, `.reload`, `.editar`, `.atributo`, `.inspeccionar`; assign through a permission provider using ZoneCore. Console access uses operator level 2 / la consola utiliza nivel de operador 2.
-- Required / obligatorio: **ZG ZoneCore** version `[2.1.1,3)`; protected 2.1.3 was smoke tested with this protected 1.4.0 server JAR. Forge 1.20.1 / Java 17. Forge registries allow enchantment and attribute IDs from installed mods, subject to their own compatibility and item support / los registros Forge aceptan ID de mods instalados, según sus propias reglas de compatibilidad y soporte del objeto.
+- Required / obligatorio: **ZoneCore** version `[2.1.1,3)`; protected 2.1.3 was smoke tested with this protected 1.4.0 server JAR. Forge 1.20.1 / Java 17. Forge registries allow enchantment and attribute IDs from installed mods, subject to their own compatibility and item support / los registros Forge aceptan ID de mods instalados, según sus propias reglas de compatibilidad y soporte del objeto.
 
 No private server TOML, credentials, mapping file or source code is included here. / Aquí no se publican TOML privados del servidor, credenciales, mapas de ofuscación ni código fuente.
 
