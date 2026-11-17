@@ -1,5 +1,14 @@
 # ZoneChants
 
+
+## Latest update / Última actualización — 1.9.0
+
+Añade el efecto Inrrompible I, que conserva el desgaste actual del equipo compatible durante el uso normal. Se aplica y retira mediante los comandos de administración de ZoneChants.
+
+Adds the Inrrompible I effect, which preserves the current wear of supported equipment during normal use. Apply or remove it with the ZoneChants admin commands.
+
+[Release notes / Notas de versión](RELEASE-2026-11-17.md)
+
 ## Current builds / Versiones actuales — 2026-11-03
 
 | Side / Lado | Version / Versión | CurseForge |
