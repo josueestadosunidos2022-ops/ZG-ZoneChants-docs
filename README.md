@@ -1,7 +1,29 @@
 # ZoneChants
 
+## 1.9.0 · Forge 1.20.1 · Java 17
 
-## Latest update / Última actualización — 1.9.0
+### Español
+
+Añade el efecto Inrrompible I, que conserva el desgaste actual del equipo compatible durante el uso normal. Se aplica y retira mediante los comandos de administración de ZoneChants.
+
+Instálalo en servidor dedicado Forge con ZoneCore 2.1.4 o posterior compatible de la rama 2.x. Aplica con `/za enchant zonechants:inrrompible 1` y retira con `/za eliminar zonechants:inrrompible`, según permisos.
+
+### English
+
+Adds the Inrrompible I effect, which preserves the current wear of supported equipment during normal use. Apply or remove it with the ZoneChants admin commands.
+
+Install on a dedicated Forge server with ZoneCore 2.1.4 or compatible newer 2.x. Apply with `/za enchant zonechants:inrrompible 1` and remove with `/za eliminar zonechants:inrrompible`, subject to permission.
+
+## Archivos de esta versión / Files for this version
+
+- [Servidor / Server](https://www.curseforge.com/minecraft/mc-mods/zonechants/files/9671199)
+
+[Notas de versión / Release notes](RELEASE-2026-11-17.md)
+
+<details>
+<summary>Documentación de versiones anteriores / Earlier release documentation</summary>
+
+## Historical notes · Latest update / Última actualización — 1.9.0
 
 Añade el efecto Inrrompible I, que conserva el desgaste actual del equipo compatible durante el uso normal. Se aplica y retira mediante los comandos de administración de ZoneChants.
 
@@ -9,7 +31,7 @@ Adds the Inrrompible I effect, which preserves the current wear of supported equ
 
 [Release notes / Notas de versión](RELEASE-2026-11-17.md)
 
-## Current builds / Versiones actuales — 2026-11-03
+## Historical notes · Current builds / Versiones actuales — 2026-11-03
 
 | Side / Lado | Version / Versión | CurseForge |
 |---|---|---|
@@ -92,3 +114,5 @@ Consulta la [referencia de configuración](CONFIGURATION.md) para claves detecta
 ## Ownership / Titularidad
 
 Documentation and original ZONE visual assets © Elgochogms. This repository contains documentation and a project avatar only; it does not distribute mod source code, private mappings, server secrets or production configuration.
+
+</details>
